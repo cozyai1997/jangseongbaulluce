@@ -1,0 +1,4 @@
+.git
+.netlify
+.server.pid
+node_modules
